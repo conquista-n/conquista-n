@@ -183,6 +183,27 @@ Aplicações internas criadas para necessidades específicas de operação e ges
 
 ---
 
+## Arquitetura das soluções
+
+```text
+Aplicativos Web e PWAs
+        │
+        ├── Autenticação de usuários
+        ├── Banco de dados em nuvem
+        ├── Armazenamento de arquivos
+        ├── Funcionamento offline
+        ├── Sincronização automática
+        └── Servidor próprio de backup
+                │
+                ├── Dados em JSON
+                ├── Imagens
+                ├── Áudios
+                ├── Metadados
+                ├── Logs
+                └── Organização automática
+```
+
+---
 
 ## Infraestrutura
 
