@@ -389,106 +389,106 @@ Aplicativos Web e PWAs
 
 ## Infraestrutura
 
-<table width="100%">
+<table width="1100">
 <tr>
 
-<td width="220" align="center" valign="top">
+<td width="250" align="center" valign="top">
 
-<br>
+<br><br>
 
 <img
   src="https://cdn.simpleicons.org/cloudflare/58C832"
-  width="42"
-  height="42"
+  width="44"
+  height="44"
   alt="Cloud"
 />
 
-<br><br>
+<br><br><br>
 
 <strong>Cloud</strong>
 
-<br><br>
+<br><br><br>
 
 Firebase<br>
 Cloudflare<br>
 Vercel
 
-<br><br>
+<br><br><br>
 
 </td>
 
-<td width="220" align="center" valign="top">
+<td width="250" align="center" valign="top">
 
-<br>
+<br><br>
 
 <img
   src="https://cdn.simpleicons.org/nodedotjs/58C832"
-  width="42"
-  height="42"
+  width="44"
+  height="44"
   alt="Backend"
 />
 
-<br><br>
+<br><br><br>
 
 <strong>Backend</strong>
 
-<br><br>
+<br><br><br>
 
 Node.js<br>
 REST APIs<br>
 Servidores locais
 
-<br><br>
+<br><br><br>
 
 </td>
 
-<td width="220" align="center" valign="top">
+<td width="250" align="center" valign="top">
 
-<br>
+<br><br>
 
 <img
   src="https://cdn.simpleicons.org/react/58C832"
-  width="42"
-  height="42"
+  width="44"
+  height="44"
   alt="Frontend"
 />
 
-<br><br>
+<br><br><br>
 
 <strong>Frontend</strong>
 
-<br><br>
+<br><br><br>
 
 React<br>
 TypeScript<br>
 PWA
 
-<br><br>
+<br><br><br>
 
 </td>
 
-<td width="220" align="center" valign="top">
+<td width="250" align="center" valign="top">
 
-<br>
+<br><br>
 
 <img
   src="https://cdn.simpleicons.org/auth0/58C832"
-  width="42"
-  height="42"
+  width="44"
+  height="44"
   alt="Segurança"
 />
 
-<br><br>
+<br><br><br>
 
 <strong>Segurança</strong>
 
-<br><br>
+<br><br><br>
 
 Autenticação<br>
 Chaves privadas<br>
 Controle de acesso
 
-<br><br>
+<br><br><br>
 
 </td>
 
