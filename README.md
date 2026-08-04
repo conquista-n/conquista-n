@@ -575,9 +575,8 @@ Criação de uma experiência simples, responsiva e organizada.
 <br>
 
 <img
-  src="https://cdn.simpleicons.org/visualstudiocode/58C832"
+  src="https://cdn.simpleicons.org/coder/58C832"
   width="32"
-  height="32"
   alt="Desenvolvimento"
 />
 
