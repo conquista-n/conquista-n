@@ -389,7 +389,7 @@ Aplicativos Web e PWAs
 
 ## Infraestrutura
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="25%" align="center" valign="top">
@@ -398,8 +398,8 @@ Aplicativos Web e PWAs
 
 <img
   src="https://cdn.simpleicons.org/cloudflare/58C832"
-  width="40"
-  height="40"
+  width="42"
+  height="42"
   alt="Cloud"
 />
 
@@ -423,8 +423,8 @@ Vercel
 
 <img
   src="https://cdn.simpleicons.org/nodedotjs/58C832"
-  width="40"
-  height="40"
+  width="42"
+  height="42"
   alt="Backend"
 />
 
@@ -448,8 +448,8 @@ Servidores locais
 
 <img
   src="https://cdn.simpleicons.org/react/58C832"
-  width="40"
-  height="40"
+  width="42"
+  height="42"
   alt="Frontend"
 />
 
@@ -473,8 +473,8 @@ PWA
 
 <img
   src="https://cdn.simpleicons.org/auth0/58C832"
-  width="40"
-  height="40"
+  width="42"
+  height="42"
   alt="Segurança"
 />
 
@@ -494,7 +494,6 @@ Controle de acesso
 
 </tr>
 </table>
-
 ---
 
 ## Processo de desenvolvimento
