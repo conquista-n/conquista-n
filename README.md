@@ -1,26 +1,29 @@
 <div align="center">
 
-<img src="./logo.png" width="220" alt="Logo Conquista Gestão" />
-
-<br>
-
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=34&pause=1200&color=62C83B&center=true&vCenter=true&width=900&height=70&lines=CONQUISTA+GEST%C3%83O;Enterprise+Software+Development;Business+Applications+%E2%80%A2+Cloud+%E2%80%A2+Automation;Tecnologia+para+transformar+neg%C3%B3cios"
-  alt="Apresentação animada da Conquista Gestão"
+  src="./logo.png"
+  width="430"
+  alt="Conquista Gestão"
 />
 
 <br>
 
-### Soluções empresariais modernas, seguras e escaláveis
+# Conquista Gestão
 
-Desenvolvemos aplicações web, PWAs, automações, sistemas de gestão e infraestrutura própria de backup.
+### Enterprise Software Development
+
+**Aplicações empresariais • Cloud • Automação • Infraestrutura**
 
 <br>
 
-![Enterprise Software](https://img.shields.io/badge/ENTERPRISE-SOFTWARE-62C83B?style=for-the-badge&labelColor=0D1117)
-![Business Applications](https://img.shields.io/badge/BUSINESS-APPLICATIONS-62C83B?style=for-the-badge&labelColor=0D1117)
-![Cloud](https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-62C83B?style=for-the-badge&labelColor=0D1117)
-![Automation](https://img.shields.io/badge/AUTOMATION-SOLUTIONS-62C83B?style=for-the-badge&labelColor=0D1117)
+Desenvolvemos aplicações web, PWAs, sistemas de gestão, automações e soluções próprias de infraestrutura e backup.
+
+<br>
+
+![Enterprise Software](https://img.shields.io/badge/ENTERPRISE-SOFTWARE-58C832?style=for-the-badge&labelColor=161B22)
+![Business Applications](https://img.shields.io/badge/BUSINESS-APPLICATIONS-58C832?style=for-the-badge&labelColor=161B22)
+![Cloud Infrastructure](https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-58C832?style=for-the-badge&labelColor=161B22)
+![Automation Solutions](https://img.shields.io/badge/AUTOMATION-SOLUTIONS-58C832?style=for-the-badge&labelColor=161B22)
 
 </div>
 
@@ -30,20 +33,18 @@ Desenvolvemos aplicações web, PWAs, automações, sistemas de gestão e infrae
 
 A **Conquista Gestão** desenvolve soluções digitais para empresas que precisam modernizar processos, organizar operações e integrar dados com segurança.
 
-Nossos projetos são construídos com foco em:
+Nossos sistemas são desenvolvidos com foco em:
 
-```text
-✓ Desempenho
-✓ Segurança
-✓ Escalabilidade
-✓ Automação
-✓ Experiência offline
-✓ Sincronização em nuvem
-✓ Backup independente
-✓ Interfaces responsivas
-✓ Código organizado
-✓ Manutenção simplificada
-```
+- desempenho;
+- segurança;
+- escalabilidade;
+- automação;
+- funcionamento offline;
+- sincronização em nuvem;
+- backup independente;
+- interfaces responsivas;
+- organização de dados;
+- facilidade de manutenção.
 
 ---
 
@@ -53,24 +54,24 @@ Nossos projetos são construídos com foco em:
 
 <img
   src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,firebase,vite,html,css,git,github,powershell,vscode&perline=6"
-  alt="Tecnologias utilizadas"
+  alt="Tecnologias utilizadas pela Conquista Gestão"
 />
 
 <br><br>
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=62C83B)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=58C832)
+![Firebase](https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Vite](https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF)
 
-![PWA](https://img.shields.io/badge/PWA-0D1117?style=for-the-badge&logo=pwa&logoColor=62C83B)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![PWA](https://img.shields.io/badge/PWA-161B22?style=for-the-badge&logo=pwa&logoColor=58C832)
+![PowerShell](https://img.shields.io/badge/PowerShell-161B22?style=for-the-badge&logo=powershell&logoColor=5391FE)
+![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 </div>
 
@@ -84,18 +85,19 @@ Nossos projetos são construídos com foco em:
 
 ### 🚛 Checklist de Caminhões e Máquinas
 
-Sistema PWA para inspeções operacionais de veículos e equipamentos.
+Sistema PWA para inspeções operacionais de veículos, caminhões e equipamentos.
 
 **Principais recursos:**
 
 - funcionamento offline;
 - histórico por motorista;
 - identificação por veículo;
-- fotos e gravações de áudio;
+- registro de fotos;
+- gravações de áudio;
+- controle de não conformidades;
 - sincronização com Firebase;
 - backup automático em servidor próprio;
-- organização por data, motorista e placa;
-- relatórios e acompanhamento de não conformidades.
+- organização por data, motorista e placa.
 
 </td>
 
@@ -103,7 +105,7 @@ Sistema PWA para inspeções operacionais de veículos e equipamentos.
 
 ### 🏢 Conquista Imobiliária
 
-Plataforma para gestão imobiliária e organização de processos internos.
+Plataforma desenvolvida para gestão imobiliária e organização de processos internos.
 
 **Principais recursos:**
 
@@ -124,7 +126,7 @@ Plataforma para gestão imobiliária e organização de processos internos.
 
 ### 📦 Servidor Local de Backup
 
-Infraestrutura própria para recebimento e organização automática de arquivos.
+Infraestrutura própria para recebimento, autenticação e organização automática de arquivos.
 
 **Principais recursos:**
 
@@ -132,10 +134,11 @@ Infraestrutura própria para recebimento e organização automática de arquivos
 - múltiplos aplicativos;
 - perfis independentes;
 - Cloudflare Tunnel;
-- domínio próprio;
+- suporte a domínio próprio;
 - backup de JSON, imagens e áudios;
+- organização automática de pastas;
 - execução automática no Windows;
-- painel de status e gerenciamento.
+- painel administrativo e de status.
 
 </td>
 
@@ -143,9 +146,9 @@ Infraestrutura própria para recebimento e organização automática de arquivos
 
 ### 📊 Sistemas Empresariais
 
-Aplicações desenvolvidas para necessidades específicas de operação e gestão.
+Aplicações internas criadas para necessidades específicas de operação e gestão.
 
-**Exemplos:**
+**Soluções desenvolvidas:**
 
 - dashboards;
 - controle operacional;
@@ -166,14 +169,15 @@ Aplicações desenvolvidas para necessidades específicas de operação e gestã
 
 <div align="center">
 
-![Aplicações Empresariais](https://img.shields.io/badge/Aplicações%20Empresariais-62C83B?style=for-the-badge&labelColor=0D1117)
-![Automação](https://img.shields.io/badge/Automação-62C83B?style=for-the-badge&labelColor=0D1117)
-![Cloud](https://img.shields.io/badge/Cloud-62C83B?style=for-the-badge&labelColor=0D1117)
-![PWA](https://img.shields.io/badge/PWA-62C83B?style=for-the-badge&labelColor=0D1117)
-![Offline First](https://img.shields.io/badge/Offline%20First-62C83B?style=for-the-badge&labelColor=0D1117)
-![APIs](https://img.shields.io/badge/APIs-62C83B?style=for-the-badge&labelColor=0D1117)
-![Backup](https://img.shields.io/badge/Backup-62C83B?style=for-the-badge&labelColor=0D1117)
-![Dashboards](https://img.shields.io/badge/Dashboards-62C83B?style=for-the-badge&labelColor=0D1117)
+![Aplicações empresariais](https://img.shields.io/badge/APLICAÇÕES-EMPRESARIAIS-58C832?style=for-the-badge&labelColor=161B22)
+![Automação](https://img.shields.io/badge/AUTOMAÇÃO-DE%20PROCESSOS-58C832?style=for-the-badge&labelColor=161B22)
+![Cloud](https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-58C832?style=for-the-badge&labelColor=161B22)
+![PWA](https://img.shields.io/badge/PROGRESSIVE-WEB%20APPS-58C832?style=for-the-badge&labelColor=161B22)
+
+![Offline First](https://img.shields.io/badge/OFFLINE-FIRST-58C832?style=for-the-badge&labelColor=161B22)
+![APIs](https://img.shields.io/badge/REST-APIs-58C832?style=for-the-badge&labelColor=161B22)
+![Backup](https://img.shields.io/badge/BACKUP-SOLUTIONS-58C832?style=for-the-badge&labelColor=161B22)
+![Dashboards](https://img.shields.io/badge/BUSINESS-DASHBOARDS-58C832?style=for-the-badge&labelColor=161B22)
 
 </div>
 
@@ -182,16 +186,16 @@ Aplicações desenvolvidas para necessidades específicas de operação e gestã
 ## Arquitetura das soluções
 
 ```text
-Aplicativo Web / PWA
+Aplicativos Web e PWAs
         │
-        ├── Autenticação
+        ├── Autenticação de usuários
         ├── Banco de dados em nuvem
         ├── Armazenamento de arquivos
         ├── Funcionamento offline
         ├── Sincronização automática
         └── Servidor próprio de backup
                 │
-                ├── JSON
+                ├── Dados em JSON
                 ├── Imagens
                 ├── Áudios
                 ├── Metadados
@@ -203,8 +207,6 @@ Aplicativo Web / PWA
 
 ## Infraestrutura
 
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="25%">
@@ -213,107 +215,115 @@ Aplicativo Web / PWA
 
 Firebase  
 Cloudflare  
-Vercel
+Vercel  
 
 </td>
+
 <td align="center" width="25%">
 
 ### 🖥️ Backend
 
 Node.js  
 REST APIs  
-Servidores locais
+Servidores locais  
 
 </td>
+
 <td align="center" width="25%">
 
 ### 📱 Frontend
 
 React  
 TypeScript  
-PWA
+PWA  
 
 </td>
+
 <td align="center" width="25%">
 
 ### 🔐 Segurança
 
 Autenticação  
 Chaves privadas  
-Controle de acesso
+Controle de acesso  
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api?username=conquista-n&show_icons=true&hide_border=true&bg_color=0D1117&title_color=62C83B&icon_color=62C83B&text_color=FFFFFF&locale=pt-br&include_all_commits=true"
-  alt="Estatísticas do GitHub"
-/>
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=conquista-n&layout=compact&hide_border=true&bg_color=0D1117&title_color=62C83B&text_color=FFFFFF&locale=pt-br"
-  alt="Linguagens mais utilizadas"
-/>
-
-</div>
-
-> Como a maioria dos projetos é privada, algumas estatísticas podem exibir apenas a atividade pública.
-
----
-
-## Atividade de desenvolvimento
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=conquista-n&bg_color=0D1117&color=FFFFFF&line=62C83B&point=FFFFFF&area=true&area_color=62C83B&hide_border=true"
-  alt="Gráfico de atividade"
-/>
-
-</div>
-
----
-
-## Foco de desenvolvimento
+## Processo de desenvolvimento
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="14%">
 
-### Desenvolvimento
+### 01
 
-- aplicações empresariais;
-- plataformas responsivas;
-- PWAs offline-first;
-- dashboards operacionais;
-- APIs e integrações;
-- sistemas internos;
-- ferramentas administrativas.
+**Análise**
+
+Entendimento do processo e dos problemas que precisam ser solucionados.
 
 </td>
 
-<td width="50%">
+<td align="center" width="14%">
 
-### Infraestrutura
+### 02
 
-- sincronização em nuvem;
-- backup automático;
-- servidores locais;
-- autenticação;
-- controle de acesso;
-- organização de arquivos;
-- disponibilidade de serviços.
+**Planejamento**
+
+Definição da estrutura, funcionalidades e regras do sistema.
+
+</td>
+
+<td align="center" width="14%">
+
+### 03
+
+**Interface**
+
+Criação de uma experiência simples, responsiva e organizada.
+
+</td>
+
+<td align="center" width="14%">
+
+### 04
+
+**Desenvolvimento**
+
+Implementação das funcionalidades e integrações.
+
+</td>
+
+<td align="center" width="14%">
+
+### 05
+
+**Testes**
+
+Validação de funcionamento, segurança e desempenho.
+
+</td>
+
+<td align="center" width="14%">
+
+### 06
+
+**Deploy**
+
+Publicação e configuração da infraestrutura.
+
+</td>
+
+<td align="center" width="14%">
+
+### 07
+
+**Evolução**
+
+Monitoramento, manutenção e melhorias contínuas.
 
 </td>
 </tr>
@@ -321,66 +331,46 @@ Controle de acesso
 
 ---
 
-## Fluxo de desenvolvimento
-
-```mermaid
-flowchart LR
-    A[Análise do processo] --> B[Planejamento]
-    B --> C[Interface e experiência]
-    C --> D[Desenvolvimento]
-    D --> E[Testes]
-    E --> F[Deploy]
-    F --> G[Monitoramento]
-    G --> H[Melhorias contínuas]
-```
-
----
-
-## Princípios
-
-<div align="center">
+## Princípios de desenvolvimento
 
 | Princípio | Objetivo |
 |---|---|
-| Arquitetura organizada | Facilitar manutenção e crescimento |
-| Segurança | Proteger usuários, acessos e dados |
-| Offline-first | Manter o sistema funcional sem internet |
-| Backup independente | Reduzir riscos de perda de informações |
-| Automação | Eliminar tarefas repetitivas |
-| Escalabilidade | Preparar o sistema para crescimento |
-| Experiência do usuário | Criar interfaces simples e eficientes |
-
-</div>
+| Arquitetura organizada | Facilitar a manutenção e o crescimento dos sistemas |
+| Segurança | Proteger usuários, acessos e informações |
+| Offline-first | Manter as funções principais disponíveis sem internet |
+| Backup independente | Reduzir os riscos de perda de dados |
+| Automação | Eliminar tarefas repetitivas e processos manuais |
+| Escalabilidade | Preparar cada aplicação para o crescimento |
+| Experiência do usuário | Criar interfaces simples, rápidas e eficientes |
+| Código reutilizável | Compartilhar soluções entre diferentes projetos |
 
 ---
 
-## Projetos privados
+## Repositórios empresariais
 
 A maior parte dos projetos da **Conquista Gestão** está armazenada em repositórios privados.
 
 Esses repositórios incluem:
 
-```text
-• aplicações empresariais;
-• plataformas internas;
-• sistemas de gestão;
-• infraestrutura de backup;
-• integrações;
-• automações;
-• APIs;
-• ferramentas administrativas;
-• projetos em desenvolvimento.
-```
+- aplicações empresariais;
+- plataformas internas;
+- sistemas de gestão;
+- infraestrutura de backup;
+- integrações com serviços externos;
+- automações;
+- APIs;
+- ferramentas administrativas;
+- projetos em desenvolvimento.
 
 ---
 
-## Status
+## Status dos projetos
 
 <div align="center">
 
-![Projetos](https://img.shields.io/badge/Projetos-Em%20desenvolvimento-62C83B?style=for-the-badge&labelColor=0D1117)
-![Infraestrutura](https://img.shields.io/badge/Infraestrutura-Ativa-62C83B?style=for-the-badge&labelColor=0D1117)
-![Manutenção](https://img.shields.io/badge/Manutenção-Contínua-62C83B?style=for-the-badge&labelColor=0D1117)
+![Projetos](https://img.shields.io/badge/PROJETOS-EM%20DESENVOLVIMENTO-58C832?style=for-the-badge&labelColor=161B22)
+![Infraestrutura](https://img.shields.io/badge/INFRAESTRUTURA-ATIVA-58C832?style=for-the-badge&labelColor=161B22)
+![Manutenção](https://img.shields.io/badge/MANUTENÇÃO-CONTÍNUA-58C832?style=for-the-badge&labelColor=161B22)
 
 </div>
 
@@ -388,26 +378,14 @@ Esses repositórios incluem:
 
 <div align="center">
 
-<img src="./logo.png" width="100" alt="Logo Conquista Gestão" />
+<img
+  src="./logo.png"
+  width="250"
+  alt="Conquista Gestão"
+/>
 
-## Conquista Gestão
-
-### Tecnologia aplicada à gestão empresarial
+### Tecnologia aplicada à operação empresarial
 
 **Software • Cloud • Automação • Infraestrutura**
-
-<br>
-
-![Visualizações](https://komarev.com/ghpvc/?username=conquista-n&color=62C83B&style=for-the-badge&label=VISUALIZAÇÕES)
-
-</div>
-
-<div align="center">
-
-### Conquista Gestão
-
-**Tecnologia aplicada à operação empresarial.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=conquista-n&color=65c936&style=flat-square&label=Visualizações)
 
 </div>
