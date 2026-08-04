@@ -33,20 +33,6 @@ Desenvolvemos aplicações web, PWAs, sistemas de gestão, automações e soluç
 
 A **Conquista Gestão** desenvolve soluções digitais para empresas que precisam modernizar processos, organizar operações e integrar dados com segurança.
 
-Nossos sistemas são desenvolvidos com foco em:
-
-- desempenho;
-- segurança;
-- escalabilidade;
-- automação;
-- funcionamento offline;
-- sincronização em nuvem;
-- backup independente;
-- interfaces responsivas;
-- organização de dados;
-- facilidade de manutenção.
-
----
 
 ## Tecnologias
 
