@@ -20,25 +20,24 @@ Desenvolvemos aplicações web, PWAs, sistemas de gestão, automações e soluç
 
 <br><br>
 
-<img
-  src="https://img.shields.io/badge/ENTERPRISE-SOFTWARE-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Enterprise Software"
-/>
-
-<img
-  src="https://img.shields.io/badge/BUSINESS-APPLICATIONS-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Business Applications"
-/>
-
-<img
-  src="https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Cloud Infrastructure"
-/>
-
-<img
-  src="https://img.shields.io/badge/AUTOMATION-SOLUTIONS-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Automation Solutions"
-/>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/ENTERPRISE-SOFTWARE-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Enterprise Software"
+  >
+  <img
+    src="https://img.shields.io/badge/BUSINESS-APPLICATIONS-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Business Applications"
+  >
+  <img
+    src="https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Cloud Infrastructure"
+  >
+  <img
+    src="https://img.shields.io/badge/AUTOMATION-SOLUTIONS-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Automation Solutions"
+  >
+</p>
 
 </div>
 
@@ -74,67 +73,59 @@ Nossos sistemas são desenvolvidos com foco em:
 
 <br><br>
 
-<img
-  src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"
-  alt="React"
-/>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React"
+  >
+  <img
+    src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6"
+    alt="TypeScript"
+  >
+  <img
+    src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+    alt="JavaScript"
+  >
+  <img
+    src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=58C832"
+    alt="Node.js"
+  >
+  <img
+    src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28"
+    alt="Firebase"
+  >
+  <img
+    src="https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF"
+    alt="Vite"
+  >
+</p>
 
-<img
-  src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6"
-  alt="TypeScript"
-/>
-
-<img
-  src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-  alt="JavaScript"
-/>
-
-<img
-  src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=58C832"
-  alt="Node.js"
-/>
-
-<img
-  src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28"
-  alt="Firebase"
-/>
-
-<img
-  src="https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF"
-  alt="Vite"
-/>
-
-<br>
-
-<img
-  src="https://img.shields.io/badge/PWA-161B22?style=for-the-badge&logo=pwa&logoColor=58C832"
-  alt="PWA"
-/>
-
-<img
-  src="https://img.shields.io/badge/PowerShell-161B22?style=for-the-badge&logo=powershell&logoColor=5391FE"
-  alt="PowerShell"
-/>
-
-<img
-  src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"
-  alt="Git"
-/>
-
-<img
-  src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"
-  alt="GitHub"
-/>
-
-<img
-  src="https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020"
-  alt="Cloudflare"
-/>
-
-<img
-  src="https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
-  alt="Vercel"
-/>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/PWA-161B22?style=for-the-badge&logo=pwa&logoColor=58C832"
+    alt="PWA"
+  >
+  <img
+    src="https://img.shields.io/badge/PowerShell-161B22?style=for-the-badge&logo=powershell&logoColor=5391FE"
+    alt="PowerShell"
+  >
+  <img
+    src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"
+    alt="Git"
+  >
+  <img
+    src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="GitHub"
+  >
+  <img
+    src="https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020"
+    alt="Cloudflare"
+  >
+  <img
+    src="https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
+    alt="Vercel"
+  >
+</p>
 
 </div>
 
@@ -150,16 +141,20 @@ Nossos sistemas são desenvolvidos com foco em:
 <table>
 <tr>
 <td width="42" align="center" valign="middle">
+
 <img
   src="https://cdn.simpleicons.org/pwa/58C832"
   width="26"
   height="26"
   alt="PWA"
 />
+
 </td>
 
 <td valign="middle">
+
 <strong>Checklist de Caminhões e Máquinas</strong>
+
 </td>
 </tr>
 </table>
@@ -191,16 +186,20 @@ Sistema PWA para inspeções operacionais de veículos, caminhões e equipamento
 <table>
 <tr>
 <td width="42" align="center" valign="middle">
+
 <img
   src="https://cdn.simpleicons.org/homeassistant/58C832"
   width="26"
   height="26"
   alt="Conquista Imobiliária"
 />
+
 </td>
 
 <td valign="middle">
+
 <strong>Conquista Imobiliária</strong>
+
 </td>
 </tr>
 </table>
@@ -235,16 +234,20 @@ Plataforma desenvolvida para gestão imobiliária e organização de processos i
 <table>
 <tr>
 <td width="42" align="center" valign="middle">
+
 <img
   src="https://cdn.simpleicons.org/serverfault/58C832"
   width="26"
   height="26"
   alt="Servidor Local de Backup"
 />
+
 </td>
 
 <td valign="middle">
+
 <strong>Servidor Local de Backup</strong>
+
 </td>
 </tr>
 </table>
@@ -276,16 +279,20 @@ Infraestrutura própria para recebimento, autenticação e organização automá
 <table>
 <tr>
 <td width="42" align="center" valign="middle">
+
 <img
   src="https://cdn.simpleicons.org/googleanalytics/58C832"
   width="26"
   height="26"
   alt="Sistemas Empresariais"
 />
+
 </td>
 
 <td valign="middle">
+
 <strong>Sistemas Empresariais</strong>
+
 </td>
 </tr>
 </table>
@@ -318,51 +325,43 @@ Aplicações internas criadas para necessidades específicas de operação e ges
 
 ## Áreas de atuação
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/APLICAÇÕES-EMPRESARIAIS-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Aplicações empresariais"
+  >
+  <img
+    src="https://img.shields.io/badge/AUTOMAÇÃO-DE%20PROCESSOS-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Automação de processos"
+  >
+  <img
+    src="https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Cloud Infrastructure"
+  >
+  <img
+    src="https://img.shields.io/badge/PROGRESSIVE-WEB%20APPS-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Progressive Web Apps"
+  >
+</p>
 
-<img
-  src="https://img.shields.io/badge/APLICAÇÕES-EMPRESARIAIS-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Aplicações empresariais"
-/>
-
-<img
-  src="https://img.shields.io/badge/AUTOMAÇÃO-DE%20PROCESSOS-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Automação de processos"
-/>
-
-<img
-  src="https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Cloud Infrastructure"
-/>
-
-<img
-  src="https://img.shields.io/badge/PROGRESSIVE-WEB%20APPS-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Progressive Web Apps"
-/>
-
-<br>
-
-<img
-  src="https://img.shields.io/badge/OFFLINE-FIRST-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Offline First"
-/>
-
-<img
-  src="https://img.shields.io/badge/REST-APIs-58C832?style=for-the-badge&labelColor=161B22"
-  alt="REST APIs"
-/>
-
-<img
-  src="https://img.shields.io/badge/BACKUP-SOLUTIONS-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Backup Solutions"
-/>
-
-<img
-  src="https://img.shields.io/badge/BUSINESS-DASHBOARDS-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Business Dashboards"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/OFFLINE-FIRST-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Offline First"
+  >
+  <img
+    src="https://img.shields.io/badge/REST-APIs-58C832?style=for-the-badge&labelColor=161B22"
+    alt="REST APIs"
+  >
+  <img
+    src="https://img.shields.io/badge/BACKUP-SOLUTIONS-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Backup Solutions"
+  >
+  <img
+    src="https://img.shields.io/badge/BUSINESS-DASHBOARDS-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Business Dashboards"
+  >
+</p>
 
 ---
 
@@ -731,24 +730,20 @@ Esses repositórios incluem:
 
 ## Status dos projetos
 
-<div align="center">
-
-<img
-  src="https://img.shields.io/badge/PROJETOS-EM%20DESENVOLVIMENTO-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Projetos em desenvolvimento"
-/>
-
-<img
-  src="https://img.shields.io/badge/INFRAESTRUTURA-ATIVA-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Infraestrutura ativa"
-/>
-
-<img
-  src="https://img.shields.io/badge/MANUTENÇÃO-CONTÍNUA-58C832?style=for-the-badge&labelColor=161B22"
-  alt="Manutenção contínua"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/PROJETOS-EM%20DESENVOLVIMENTO-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Projetos em desenvolvimento"
+  >
+  <img
+    src="https://img.shields.io/badge/INFRAESTRUTURA-ATIVA-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Infraestrutura ativa"
+  >
+  <img
+    src="https://img.shields.io/badge/MANUTENÇÃO-CONTÍNUA-58C832?style=for-the-badge&labelColor=161B22"
+    alt="Manutenção contínua"
+  >
+</p>
 
 ---
 
