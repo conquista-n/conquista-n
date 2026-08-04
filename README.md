@@ -2,28 +2,43 @@
 
 <img
   src="./logo.png"
-  width="430"
+  width="500"
   alt="Conquista Gestão"
 />
 
 <br>
 
-# Conquista Gestão
+<h1>Conquista Gestão</h1>
 
-### Enterprise Software Development
+<h3>Enterprise Software Development</h3>
 
-**Aplicações empresariais • Cloud • Automação • Infraestrutura**
+<strong>Aplicações empresariais • Cloud • Automação • Infraestrutura</strong>
 
-<br>
+<br><br>
 
 Desenvolvemos aplicações web, PWAs, sistemas de gestão, automações e soluções próprias de infraestrutura e backup.
 
-<br>
+<br><br>
 
-![Enterprise Software](https://img.shields.io/badge/ENTERPRISE-SOFTWARE-58C832?style=for-the-badge&labelColor=161B22)
-![Business Applications](https://img.shields.io/badge/BUSINESS-APPLICATIONS-58C832?style=for-the-badge&labelColor=161B22)
-![Cloud Infrastructure](https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-58C832?style=for-the-badge&labelColor=161B22)
-![Automation Solutions](https://img.shields.io/badge/AUTOMATION-SOLUTIONS-58C832?style=for-the-badge&labelColor=161B22)
+<img
+  src="https://img.shields.io/badge/ENTERPRISE-SOFTWARE-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Enterprise Software"
+/>
+
+<img
+  src="https://img.shields.io/badge/BUSINESS-APPLICATIONS-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Business Applications"
+/>
+
+<img
+  src="https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Cloud Infrastructure"
+/>
+
+<img
+  src="https://img.shields.io/badge/AUTOMATION-SOLUTIONS-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Automation Solutions"
+/>
 
 </div>
 
@@ -59,19 +74,67 @@ Nossos sistemas são desenvolvidos com foco em:
 
 <br><br>
 
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=58C832)
-![Firebase](https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Vite](https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF)
+<img
+  src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"
+  alt="React"
+/>
 
-![PWA](https://img.shields.io/badge/PWA-161B22?style=for-the-badge&logo=pwa&logoColor=58C832)
-![PowerShell](https://img.shields.io/badge/PowerShell-161B22?style=for-the-badge&logo=powershell&logoColor=5391FE)
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+<img
+  src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6"
+  alt="TypeScript"
+/>
+
+<img
+  src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+  alt="JavaScript"
+/>
+
+<img
+  src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=58C832"
+  alt="Node.js"
+/>
+
+<img
+  src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28"
+  alt="Firebase"
+/>
+
+<img
+  src="https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF"
+  alt="Vite"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/PWA-161B22?style=for-the-badge&logo=pwa&logoColor=58C832"
+  alt="PWA"
+/>
+
+<img
+  src="https://img.shields.io/badge/PowerShell-161B22?style=for-the-badge&logo=powershell&logoColor=5391FE"
+  alt="PowerShell"
+/>
+
+<img
+  src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"
+  alt="Git"
+/>
+
+<img
+  src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"
+  alt="GitHub"
+/>
+
+<img
+  src="https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020"
+  alt="Cloudflare"
+/>
+
+<img
+  src="https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
+  alt="Vercel"
+/>
 
 </div>
 
@@ -81,102 +144,223 @@ Nossos sistemas são desenvolvidos com foco em:
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/pwa/58C832" width="22" /> Checklist de Caminhões e Máquinas
-
-Sistema PWA para inspeções operacionais de veículos, caminhões e equipamentos.
-
-**Principais recursos:**
-
-- funcionamento offline;
-- histórico por motorista;
-- identificação por veículo;
-- registro de fotos;
-- gravações de áudio;
-- controle de não conformidades;
-- sincronização com Firebase;
-- backup automático em servidor próprio;
-- organização por data, motorista e placa.
-
-</td>
 
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/homeassistant/58C832" width="22" /> Conquista Imobiliária
-
-Plataforma desenvolvida para gestão imobiliária e organização de processos internos.
-
-**Principais recursos:**
-
-- gestão de imóveis;
-- controle de usuários;
-- dashboards operacionais;
-- relatórios;
-- automações;
-- integração em nuvem;
-- interface responsiva;
-- organização de documentos e registros.
-
-</td>
-</tr>
-
+<table>
 <tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/serverfault/58C832" width="22" /> Servidor Local de Backup
-
-Infraestrutura própria para recebimento, autenticação e organização automática de arquivos.
-
-**Principais recursos:**
-
-- API autenticada;
-- múltiplos aplicativos;
-- perfis independentes;
-- Cloudflare Tunnel;
-- suporte a domínio próprio;
-- backup de JSON, imagens e áudios;
-- organização automática de pastas;
-- execução automática no Windows;
-- painel administrativo e de status.
-
+<td width="42" align="center" valign="middle">
+<img
+  src="https://cdn.simpleicons.org/pwa/58C832"
+  width="26"
+  height="26"
+  alt="PWA"
+/>
 </td>
 
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/googleanalytics/58C832" width="22" /> Sistemas Empresariais
-
-Aplicações internas criadas para necessidades específicas de operação e gestão.
-
-**Soluções desenvolvidas:**
-
-- dashboards;
-- controle operacional;
-- gestão de equipes;
-- relatórios personalizados;
-- automação de processos;
-- sincronização em nuvem;
-- ferramentas administrativas;
-- integrações entre sistemas.
-
+<td valign="middle">
+<strong>Checklist de Caminhões e Máquinas</strong>
 </td>
 </tr>
 </table>
+
+<br>
+
+Sistema PWA para inspeções operacionais de veículos, caminhões e equipamentos.
+
+<br><br>
+
+<strong>Principais recursos:</strong>
+
+<ul>
+<li>funcionamento offline;</li>
+<li>histórico por motorista;</li>
+<li>identificação por veículo;</li>
+<li>registro de fotos;</li>
+<li>gravações de áudio;</li>
+<li>controle de não conformidades;</li>
+<li>sincronização com Firebase;</li>
+<li>backup automático em servidor próprio;</li>
+<li>organização por data, motorista e placa.</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<td width="42" align="center" valign="middle">
+<img
+  src="https://cdn.simpleicons.org/homeassistant/58C832"
+  width="26"
+  height="26"
+  alt="Conquista Imobiliária"
+/>
+</td>
+
+<td valign="middle">
+<strong>Conquista Imobiliária</strong>
+</td>
+</tr>
+</table>
+
+<br>
+
+Plataforma desenvolvida para gestão imobiliária e organização de processos internos.
+
+<br><br>
+
+<strong>Principais recursos:</strong>
+
+<ul>
+<li>gestão de imóveis;</li>
+<li>controle de usuários;</li>
+<li>dashboards operacionais;</li>
+<li>relatórios;</li>
+<li>automações;</li>
+<li>integração em nuvem;</li>
+<li>interface responsiva;</li>
+<li>organização de documentos e registros.</li>
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<td width="42" align="center" valign="middle">
+<img
+  src="https://cdn.simpleicons.org/serverfault/58C832"
+  width="26"
+  height="26"
+  alt="Servidor Local de Backup"
+/>
+</td>
+
+<td valign="middle">
+<strong>Servidor Local de Backup</strong>
+</td>
+</tr>
+</table>
+
+<br>
+
+Infraestrutura própria para recebimento, autenticação e organização automática de arquivos.
+
+<br><br>
+
+<strong>Principais recursos:</strong>
+
+<ul>
+<li>API autenticada;</li>
+<li>múltiplos aplicativos;</li>
+<li>perfis independentes;</li>
+<li>Cloudflare Tunnel;</li>
+<li>suporte a domínio próprio;</li>
+<li>backup de JSON, imagens e áudios;</li>
+<li>organização automática de pastas;</li>
+<li>execução automática no Windows;</li>
+<li>painel administrativo e de status.</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<td width="42" align="center" valign="middle">
+<img
+  src="https://cdn.simpleicons.org/googleanalytics/58C832"
+  width="26"
+  height="26"
+  alt="Sistemas Empresariais"
+/>
+</td>
+
+<td valign="middle">
+<strong>Sistemas Empresariais</strong>
+</td>
+</tr>
+</table>
+
+<br>
+
+Aplicações internas criadas para necessidades específicas de operação e gestão.
+
+<br><br>
+
+<strong>Soluções desenvolvidas:</strong>
+
+<ul>
+<li>dashboards;</li>
+<li>controle operacional;</li>
+<li>gestão de equipes;</li>
+<li>relatórios personalizados;</li>
+<li>automação de processos;</li>
+<li>sincronização em nuvem;</li>
+<li>ferramentas administrativas;</li>
+<li>integrações entre sistemas.</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
 ## Áreas de atuação
 
 <div align="center">
 
-![Aplicações empresariais](https://img.shields.io/badge/APLICAÇÕES-EMPRESARIAIS-58C832?style=for-the-badge&labelColor=161B22)
-![Automação](https://img.shields.io/badge/AUTOMAÇÃO-DE%20PROCESSOS-58C832?style=for-the-badge&labelColor=161B22)
-![Cloud](https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-58C832?style=for-the-badge&labelColor=161B22)
-![PWA](https://img.shields.io/badge/PROGRESSIVE-WEB%20APPS-58C832?style=for-the-badge&labelColor=161B22)
+<img
+  src="https://img.shields.io/badge/APLICAÇÕES-EMPRESARIAIS-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Aplicações empresariais"
+/>
 
-![Offline First](https://img.shields.io/badge/OFFLINE-FIRST-58C832?style=for-the-badge&labelColor=161B22)
-![APIs](https://img.shields.io/badge/REST-APIs-58C832?style=for-the-badge&labelColor=161B22)
-![Backup](https://img.shields.io/badge/BACKUP-SOLUTIONS-58C832?style=for-the-badge&labelColor=161B22)
-![Dashboards](https://img.shields.io/badge/BUSINESS-DASHBOARDS-58C832?style=for-the-badge&labelColor=161B22)
+<img
+  src="https://img.shields.io/badge/AUTOMAÇÃO-DE%20PROCESSOS-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Automação de processos"
+/>
+
+<img
+  src="https://img.shields.io/badge/CLOUD-INFRASTRUCTURE-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Cloud Infrastructure"
+/>
+
+<img
+  src="https://img.shields.io/badge/PROGRESSIVE-WEB%20APPS-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Progressive Web Apps"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/OFFLINE-FIRST-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Offline First"
+/>
+
+<img
+  src="https://img.shields.io/badge/REST-APIs-58C832?style=for-the-badge&labelColor=161B22"
+  alt="REST APIs"
+/>
+
+<img
+  src="https://img.shields.io/badge/BACKUP-SOLUTIONS-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Backup Solutions"
+/>
+
+<img
+  src="https://img.shields.io/badge/BUSINESS-DASHBOARDS-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Business Dashboards"
+/>
 
 </div>
 
@@ -215,8 +399,8 @@ Aplicativos Web e PWAs
 
 <img
   src="https://cdn.simpleicons.org/cloudflare/58C832"
-  width="42"
-  height="42"
+  width="40"
+  height="40"
   alt="Cloud"
 />
 
@@ -240,8 +424,8 @@ Vercel
 
 <img
   src="https://cdn.simpleicons.org/nodedotjs/58C832"
-  width="42"
-  height="42"
+  width="40"
+  height="40"
   alt="Backend"
 />
 
@@ -265,8 +449,8 @@ Servidores locais
 
 <img
   src="https://cdn.simpleicons.org/react/58C832"
-  width="42"
-  height="42"
+  width="40"
+  height="40"
   alt="Frontend"
 />
 
@@ -289,9 +473,9 @@ PWA
 <br>
 
 <img
-  src="https://cdn.simpleicons.org/firebase/58C832"
-  width="42"
-  height="42"
+  src="https://cdn.simpleicons.org/auth0/58C832"
+  width="40"
+  height="40"
   alt="Segurança"
 />
 
@@ -311,83 +495,205 @@ Controle de acesso
 
 </tr>
 </table>
+
 ---
 
 ## Processo de desenvolvimento
 
 <table>
 <tr>
-<td align="center" width="14%">
 
-<img src="https://cdn.simpleicons.org/googleanalytics/58C832" width="30" />
+<td width="25%" align="center" valign="top">
 
-### Análise
+<br>
+
+<img
+  src="https://cdn.simpleicons.org/googleanalytics/58C832"
+  width="32"
+  height="32"
+  alt="Análise"
+/>
+
+<br><br>
+
+<strong>Análise</strong>
+
+<br><br>
 
 Entendimento do processo e dos problemas que precisam ser solucionados.
 
+<br><br>
+
 </td>
 
-<td align="center" width="14%">
+<td width="25%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/notion/58C832" width="30" />
+<br>
 
-### Planejamento
+<img
+  src="https://cdn.simpleicons.org/notion/58C832"
+  width="32"
+  height="32"
+  alt="Planejamento"
+/>
+
+<br><br>
+
+<strong>Planejamento</strong>
+
+<br><br>
 
 Definição da estrutura, funcionalidades e regras do sistema.
 
+<br><br>
+
 </td>
 
-<td align="center" width="14%">
+<td width="25%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/figma/58C832" width="30" />
+<br>
 
-### Interface
+<img
+  src="https://cdn.simpleicons.org/figma/58C832"
+  width="32"
+  height="32"
+  alt="Interface"
+/>
+
+<br><br>
+
+<strong>Interface</strong>
+
+<br><br>
 
 Criação de uma experiência simples, responsiva e organizada.
 
+<br><br>
+
 </td>
 
-<td align="center" width="14%">
+<td width="25%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/visualstudiocode/58C832" width="30" />
+<br>
 
-### Desenvolvimento
+<img
+  src="https://cdn.simpleicons.org/visualstudiocode/58C832"
+  width="32"
+  height="32"
+  alt="Desenvolvimento"
+/>
+
+<br><br>
+
+<strong>Desenvolvimento</strong>
+
+<br><br>
 
 Implementação das funcionalidades e integrações.
 
+<br><br>
+
 </td>
 
-<td align="center" width="14%">
+</tr>
 
-<img src="https://cdn.simpleicons.org/testinglibrary/58C832" width="30" />
+<tr>
 
-### Testes
+<td width="25%" align="center" valign="top">
+
+<br>
+
+<img
+  src="https://cdn.simpleicons.org/testinglibrary/58C832"
+  width="32"
+  height="32"
+  alt="Testes"
+/>
+
+<br><br>
+
+<strong>Testes</strong>
+
+<br><br>
 
 Validação de funcionamento, segurança e desempenho.
 
+<br><br>
+
 </td>
 
-<td align="center" width="14%">
+<td width="25%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/vercel/58C832" width="30" />
+<br>
 
-### Deploy
+<img
+  src="https://cdn.simpleicons.org/vercel/58C832"
+  width="32"
+  height="32"
+  alt="Deploy"
+/>
+
+<br><br>
+
+<strong>Deploy</strong>
+
+<br><br>
 
 Publicação e configuração da infraestrutura.
 
-</td>
-
-<td align="center" width="14%">
-
-<img src="https://cdn.simpleicons.org/githubactions/58C832" width="30" />
-
-### Evolução
-
-Monitoramento, manutenção e melhorias contínuas.
+<br><br>
 
 </td>
+
+<td width="25%" align="center" valign="top">
+
+<br>
+
+<img
+  src="https://cdn.simpleicons.org/githubactions/58C832"
+  width="32"
+  height="32"
+  alt="Monitoramento"
+/>
+
+<br><br>
+
+<strong>Monitoramento</strong>
+
+<br><br>
+
+Acompanhamento do funcionamento e da disponibilidade dos sistemas.
+
+<br><br>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<br>
+
+<img
+  src="https://cdn.simpleicons.org/github/58C832"
+  width="32"
+  height="32"
+  alt="Evolução"
+/>
+
+<br><br>
+
+<strong>Evolução</strong>
+
+<br><br>
+
+Manutenção, otimizações e melhorias contínuas.
+
+<br><br>
+
+</td>
+
 </tr>
 </table>
+
 ---
 
 ## Princípios de desenvolvimento
@@ -427,9 +733,20 @@ Esses repositórios incluem:
 
 <div align="center">
 
-![Projetos](https://img.shields.io/badge/PROJETOS-EM%20DESENVOLVIMENTO-58C832?style=for-the-badge&labelColor=161B22)
-![Infraestrutura](https://img.shields.io/badge/INFRAESTRUTURA-ATIVA-58C832?style=for-the-badge&labelColor=161B22)
-![Manutenção](https://img.shields.io/badge/MANUTENÇÃO-CONTÍNUA-58C832?style=for-the-badge&labelColor=161B22)
+<img
+  src="https://img.shields.io/badge/PROJETOS-EM%20DESENVOLVIMENTO-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Projetos em desenvolvimento"
+/>
+
+<img
+  src="https://img.shields.io/badge/INFRAESTRUTURA-ATIVA-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Infraestrutura ativa"
+/>
+
+<img
+  src="https://img.shields.io/badge/MANUTENÇÃO-CONTÍNUA-58C832?style=for-the-badge&labelColor=161B22"
+  alt="Manutenção contínua"
+/>
 
 </div>
 
@@ -439,12 +756,14 @@ Esses repositórios incluem:
 
 <img
   src="./logo.png"
-  width="250"
+  width="300"
   alt="Conquista Gestão"
 />
 
-### Tecnologia aplicada à operação empresarial
+<br>
 
-**Software • Cloud • Automação • Infraestrutura**
+<h3>Tecnologia aplicada à operação empresarial</h3>
+
+<strong>Software • Cloud • Automação • Infraestrutura</strong>
 
 </div>
