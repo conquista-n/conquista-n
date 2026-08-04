@@ -392,7 +392,7 @@ Aplicativos Web e PWAs
 <table width="100%">
 <tr>
 
-<td width="25%" align="center" valign="top">
+<td width="220" align="center" valign="top">
 
 <br>
 
@@ -417,7 +417,7 @@ Vercel
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="220" align="center" valign="top">
 
 <br>
 
@@ -442,7 +442,7 @@ Servidores locais
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="220" align="center" valign="top">
 
 <br>
 
@@ -467,7 +467,7 @@ PWA
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="220" align="center" valign="top">
 
 <br>
 
@@ -494,11 +494,12 @@ Controle de acesso
 
 </tr>
 </table>
+
 ---
 
 ## Processo de desenvolvimento
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="25%" align="center" valign="top">
@@ -577,6 +578,7 @@ Criação de uma experiência simples, responsiva e organizada.
 <img
   src="https://cdn.simpleicons.org/coder/58C832"
   width="32"
+  height="32"
   alt="Desenvolvimento"
 />
 
